@@ -9,7 +9,6 @@ export default function Home() {
       <Head>
         <title>my web</title>
       </Head>
-     <h1>hi from index</h1>
     </div>
   )
 }
