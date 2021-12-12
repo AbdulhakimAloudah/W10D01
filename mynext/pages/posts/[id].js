@@ -1,4 +1,3 @@
-// import styles from "./../../styles/post.module.css";
 
 export async function getStaticPaths() {
   const res = await fetch("https://jsonplaceholder.typicode.com/posts");
